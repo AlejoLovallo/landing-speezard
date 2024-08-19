@@ -32,16 +32,16 @@
     "sass": "^1.55.0",
     "typescript": "4.8.4"
   },
-  "description": "Este es el repositorio base para la landing de la Comunidad Resiliente y Speezard!",
+  "description": "Base Speezard Landing Page",
   "main": "next.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leonardoromero/landing-speezard.git"
+    "url": "git+https://github.com/AlejoLovallo/landing-speezard.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/leonardoromero/landing-speezard/issues"
+    "url": "https://github.com/AlejoLovallo/landing-speezard/issues"
   },
-  "homepage": "https://github.com/leonardoromero/landing-speezard#readme"
+  "homepage": "https://github.com/AlejoLovallo/landing-speezard#readme"
 }
