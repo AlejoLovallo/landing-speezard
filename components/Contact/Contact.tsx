@@ -63,7 +63,7 @@ const Contact: React.FC<ContactProps> = ({ ctaText, buttonColor }) => {
 						/>
 					</button>
 					<iframe 
-						src="https://docs.google.com/forms/d/e/1FAIpQLSfrJIlzOpMGFfrzC9IGtUQDFVR4CQ3KCcy4CfWc0MJttLVIGw/viewform?usp=pp_url&entry.919785290=Landing"
+						src="https://docs.google.com/forms/d/e/1FAIpQLSeDvqjnVkyhhJEK1krvEH1LrBuhPv5tNeIgsxrIwOaMd2jS5A/viewform?usp=pp_url&entry.919785290=Landing"
 						width="100%"
 						height="100%"
 						style={{ zIndex: 9999 }}

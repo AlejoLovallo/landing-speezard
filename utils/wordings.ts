@@ -2,7 +2,7 @@ import { Wordings } from './types'
 
 const wordings: Wordings = {
 	hero: {
-		heading1: 'Validamos y hacemos crecer tu startup Web3 en ',
+		heading1: 'Validamos y hacemos crecer tu startup Web3 & IA en ',
 		span: 'comunidad.',
 		text: 'Obtené el acompañamiento, conocimiento y mentorias necesarias para acelerar tu emprendimiento sumandote a la nueva camada de nuestro programa incubador de 12 semanas.',
 		cta: 'Postulate ahora!',
@@ -270,19 +270,19 @@ const wordings: Wordings = {
 		],
 		stat: [
 			{
-				number: 16,
+				number: 25,
 				text: 'Start-ups',
 			},
 			{
-				number: 42,
+				number: 72,
 				text: 'Emprendedores',
 			},
 			{
-				number: 18,
+				number: 45,
 				text: 'Mentores',
 			},
 			{
-				number: 24,
+				number: 35,
 				text: 'Desarrolladores',
 			},
 		],
@@ -381,6 +381,22 @@ const wordings: Wordings = {
 			},
 			{
 				id: 3,
+				img: 'alejo',
+				alt: 'imagen de perfil de Alejo Lovallo',
+				heading6: 'Alejo Lovallo',
+				description:
+					'Software Engineer | Blockchain Lead | 🦎 $Resi Proof of Build Co-Creator',
+				links: [
+					{
+						id: 'twitter',
+						icon: 'twitter',
+						text: '@alejolovallo',
+						href: 'https://x.com/alejolovallo',
+					},
+				],
+			},
+			{
+				id: 4,
 				img: 'erika',
 				alt: 'imagen de perfil de Erika',
 				heading6: 'Erika',
@@ -396,7 +412,7 @@ const wordings: Wordings = {
 				],
 			},
 			{
-				id: 4,
+				id: 5,
 				img: 'ibliz',
 				alt: 'imagen de perfil de ibliz',
 				heading6: 'Tomas Lizer',
@@ -411,7 +427,7 @@ const wordings: Wordings = {
 				],
 			},
 			{
-				id: 5,
+				id: 6,
 				img: 'p4troy',
 				alt: 'imagen de perfil de Martin Pefaur',
 				heading6: 'Martin Pefaur',
@@ -427,7 +443,7 @@ const wordings: Wordings = {
 				],
 			},
 			{
-				id: 6,
+				id: 7,
 				img: 'manulamedica',
 				alt: 'imagen de perfil de manu',
 				heading6: 'Manu Lamedica',
@@ -442,7 +458,7 @@ const wordings: Wordings = {
 				],
 			},
 			{
-				id: 7,
+				id: 8,
 				img: 'nati',
 				alt: 'imagen de perfil de Natalia Soledad Salinas',
 				heading6: 'Natalia Salinas',
@@ -457,7 +473,7 @@ const wordings: Wordings = {
 				],
 			},
 			{
-				id: 8,
+				id: 9,
 				img: 'paulaarenzo',
 				alt: 'imagen de perfil de Paula Arenzo',
 				heading6: 'Paula Arenzo',
@@ -473,7 +489,7 @@ const wordings: Wordings = {
 				],
 			},
 			{
-				id: 9,
+				id: 10,
 				img: 'jossie',
 				alt: 'imagen de perfil de Jossie',
 				heading6: 'Josefina Anschütz',
@@ -485,22 +501,6 @@ const wordings: Wordings = {
 						icon: 'twitter',
 						text: '@uxjossie',
 						href: 'https://twitter.com/uxjossie',
-					},
-				],
-			},
-			{
-				id: 10,
-				img: 'natyshi',
-				alt: 'imagen de perfil de Natyshi',
-				heading6: 'NatyShi',
-				description:
-					'Blockchain & Web3 School Owner @platzi | Web3 researcher & content creator | @W3Talk co-host | Token Engineering Jr',
-				links: [
-					{
-						id: 'twitter',
-						icon: 'twitter',
-						text: '@NatyShi_',
-						href: 'https://www.twitter.com/NatyShi_',
 					},
 				],
 			},

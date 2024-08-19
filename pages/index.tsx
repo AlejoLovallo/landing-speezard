@@ -17,13 +17,13 @@ const Home: NextPage = () => {
 	return (
 		<div className="app-wrapper">
 			<NextSeo
-				title="Speezard | Incubadora Web 3"
-				description="Speezard es una incubadora latinoamericana, en la cual validamos y hacemos crecer tu startup Web3 en comunidad."
+				title="Speezard | Incubadora Web 3 & IA"
+				description="Speezard es una incubadora latinoamericana, en la cual validamos y hacemos crecer tu startup Web3 & IA en comunidad."
 				canonical="https://www.speezard.io/"
 				openGraph={{
 					url: 'https://www.speezard.io/',
-					title: 'Speezard | Incubadora Web 3',
-					description: 'Speezard es una incubadora latinoamericana, en la cual validamos y hacemos crecer tu startup Web3 en comunidad.',
+					title: 'Speezard | Incubadora Web 3 & IA',
+					description: 'Speezard es una incubadora latinoamericana, en la cual validamos y hacemos crecer tu startup Web3 & IA en comunidad.',
 					images: [
 						{
 							url: 'https://iili.io/JfJitte.png',
